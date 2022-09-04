@@ -1,7 +1,7 @@
 {
-	"name": "@kennarddh/react-use-history-state",
-	"version": "1.2.1",
-	"description": "Undo or redo changes in state",
+	"name": "@kennarddh/react-leaflet-plugin-download-as-png",
+	"version": "1.0.0",
+	"description": "Download leaflet map as PNG",
 	"main": "lib/bundle.cjs.js",
 	"module": "lib/bundle.esm.js",
 	"scripts": {
@@ -19,7 +19,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kennarddh/react-use-history-state.git"
+		"url": "git+https://github.com/kennarddh/react-leaflet-plugin-download-as-png.git"
 	},
 	"keywords": [
 		"state",
@@ -34,10 +34,11 @@
 	"author": "kennarddh",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/kennarddh/react-use-history-state/issues"
+		"url": "hhttps://github.com/kennarddh/react-leaflet-plugin-download-as-png"
 	},
-	"homepage": "https://github.com/kennarddh/react-use-history-state#readme",
+	"homepage": "https://github.com/kennarddh/react-leaflet-plugin-download-as-png#readme",
 	"peerDependencies": {
+		"leaflet": ">=1.0.0",
 		"react": ">=16.8.0",
 		"react-dom": ">=16.8.0"
 	},
@@ -67,5 +68,8 @@
 	},
 	"files": [
 		"lib/**/*"
-	]
+	],
+	"dependencies": {
+		"html2canvas": "^1.4.1"
+	}
 }
