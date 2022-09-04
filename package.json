@@ -22,14 +22,12 @@
 		"url": "git+https://github.com/kennarddh/react-leaflet-plugin-download-as-png.git"
 	},
 	"keywords": [
-		"state",
-		"state-management",
+		"react-leaflet-plugin-download-as-png",
+		"download-as-png",
 		"react",
-		"reactjs",
-		"javascript",
-		"history",
-		"hooks",
-		"react-use-history-state"
+		"leaflet-plugin",
+		"plugin",
+		"leaflet"
 	],
 	"author": "kennarddh",
 	"license": "MIT",
