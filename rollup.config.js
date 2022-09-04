@@ -42,7 +42,7 @@ const commonPlugins = () => [
 export default [
 	{
 		onwarn: discardWarning,
-		external: ['react', 'react-dom'],
+		external: ['react', 'react-dom','leaflet','react-leaflet'],
 		input: 'src/index.js',
 		output: [
 			{

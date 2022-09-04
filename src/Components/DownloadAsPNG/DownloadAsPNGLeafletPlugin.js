@@ -1,3 +1,5 @@
+/* eslint-disable no-underscore-dangle */
+
 import html2canvas from 'html2canvas'
 
 import L from 'leaflet'

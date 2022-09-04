@@ -1,8 +1,10 @@
 import { useEffect } from 'react'
 
 import {} from './DownloadAsPNGLeafletPlugin'
+
 import L from 'leaflet'
-import { useMap } from 'react-leaflet'
+
+import { useMap } from 'react-leaflet' /* eslint-disable-line import/no-unresolved */
 
 const DownloadAsPng = () => {
 	const map = useMap()

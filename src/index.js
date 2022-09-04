@@ -1,3 +1,3 @@
-import useHistoryState from './Hooks/HistoryState'
+import DownloadAsPng from './Components/DownloadAsPNG/DownloadAsPNG'
 
-export { useHistoryState }
+export { DownloadAsPng }
