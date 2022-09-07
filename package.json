@@ -1,5 +1,5 @@
 {
-	"name": "@kennarddh/react-leaflet-plugin-download-as-png",
+	"name": "@kennarddh/react-leaflet-download-png",
 	"version": "1.0.0",
 	"description": "Download leaflet map as PNG",
 	"main": "lib/bundle.cjs.js",
@@ -22,12 +22,13 @@
 		"url": "git+https://github.com/kennarddh/react-leaflet-plugin-download-as-png.git"
 	},
 	"keywords": [
-		"react-leaflet-plugin-download-as-png",
+		"react-leaflet-download-png",
 		"download-as-png",
 		"react",
 		"leaflet-plugin",
 		"plugin",
-		"leaflet"
+		"leaflet",
+		"png"
 	],
 	"author": "kennarddh",
 	"license": "MIT",
