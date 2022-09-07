@@ -19,7 +19,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kennarddh/react-leaflet-plugin-download-as-png.git"
+		"url": "git+https://github.com/kennarddh/react-leaflet-download-png.git"
 	},
 	"keywords": [
 		"react-leaflet-download-png",
@@ -33,9 +33,9 @@
 	"author": "kennarddh",
 	"license": "MIT",
 	"bugs": {
-		"url": "hhttps://github.com/kennarddh/react-leaflet-plugin-download-as-png"
+		"url": "hhttps://github.com/kennarddh/react-leaflet-download-png"
 	},
-	"homepage": "https://github.com/kennarddh/react-leaflet-plugin-download-as-png#readme",
+	"homepage": "https://github.com/kennarddh/react-leaflet-download-png#readme",
 	"peerDependencies": {
 		"leaflet": ">=1.0.0",
 		"react-leaflet": ">=4.0.0",
